@@ -1,20 +1,33 @@
-# Gagarin Theme
+# Gagarin Theme - Theme For Visual Studio Code  
 
-![Gagarin Logo](./images/logo.jpeg)
+A retro-futuristic theme inspired by space exploration and the legendary Yuri Gagarin, the first human in space.  
+Designed to bring a cosmic and vintage atmosphere to your coding experience 🚀✨.  
 
-Um tema escuro para o Visual Studio Code inspirado no espaço.
+---
 
-## Working with Markdown
+![Gagarin Theme Preview](./screenshot.png)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+---
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Installation  
 
-## For more information
+1. Open [Visual Studio Marketplace](https://marketplace.visualstudio.com/).  
+2. Search for **"Gagarin Theme"** or [click here](https://example.com/gagarin-theme) to go directly to the extension page.  
+3. Click **Install** and enjoy coding among the stars 🌌.  
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+---
 
-**Enjoy!**
+## Team  
+
+Just me – passionate about coding, design, and space history. 👨‍🚀  
+
+---
+
+## Changelog  
+
+### v1.0.0  
+- Initial release of **Gagarin Theme**.  
+- Added full color scheme inspired by retro space aesthetics.  
+- First public release on VS Code Marketplace.  
+
+---
