@@ -3,7 +3,7 @@
   "displayName": "Gagarin Theme",
 
   "description": "Um tema escuro para o Visual Studio Code inspirado no espaço.",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "engines": {
      "vscode": "^1.90.0"
   }, 
@@ -13,6 +13,8 @@
   "icon": "images/logo.jpeg",
   "keywords": [
     "theme",
+    "color theme",
+    "vscode theme",
     "dark",
     "space",
     "gagarin",

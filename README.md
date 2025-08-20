@@ -30,4 +30,9 @@ Just me – passionate about coding, design, and space history. 👨‍🚀
 - Added full color scheme inspired by retro space aesthetics.  
 - First public release on VS Code Marketplace.  
 
+## v0.0.7
+
+- Initial configs
+
 ---
+
