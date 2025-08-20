@@ -34,5 +34,10 @@ Just me – passionate about coding, design, and space history. 👨‍🚀
 
 - Initial configs
 
+## v0.0.8
+
+- Set functions colors
+- Set constants colors
+
 ---
 
