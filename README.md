@@ -5,7 +5,7 @@ Designed to bring a cosmic and vintage atmosphere to your coding experience 🚀
 
 ---
 
-![Gagarin Theme Preview](./screenshot.png)
+![Gagarin Theme Preview](./images/screenshot.png)
 
 ---
 
@@ -25,7 +25,7 @@ Just me – passionate about coding, design, and space history. 👨‍🚀
 
 ## Changelog  
 
-### v1.0.0  
+### v0.0.5  
 - Initial release of **Gagarin Theme**.  
 - Added full color scheme inspired by retro space aesthetics.  
 - First public release on VS Code Marketplace.  
