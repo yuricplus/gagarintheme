@@ -1,0 +1,22 @@
+{
+  "name": "gagarin",
+  "displayName": "gagarin",
+  "description": "",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "publisher": "gagarintheme",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gagarin",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Gagarin-color-theme.json"
+      }
+    ]
+  }
+}
