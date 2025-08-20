@@ -1,7 +1,7 @@
 {
   "name": "gagarin",
   "displayName": "gagarin",
-  "description": "",
+  "description": "Um tema escuro para o Visual Studio Code inspirado no espaço.",
   "version": "0.0.2",
   "engines": {
     "vscode": "^1.103.0"
@@ -9,6 +9,10 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yuricplus/gagarintheme"
+  },
   "publisher": "gagarintheme",
   "contributes": {
     "themes": [
